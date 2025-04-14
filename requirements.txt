@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+yfinance==0.2.36
+tenacity==8.2.3
+logging  # builtin, no need to list but I'll include as reference
